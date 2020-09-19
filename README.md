@@ -1,5 +1,5 @@
 # Analisis-exploratorio-de-datos
-¿Quién se come la comida que producimos?
+¿Quién se come la comida que producimos? -- AED utilizando Python y Jupyter Notebooks
 
 Según proyecciones de las Naciones Unidas, la población va a crecer de los 7.3 billones de personas que habitamos hoy en el planeta tierra a 9.7 billones para el año 2050. Este crecimiento exponencial junto con los efectos del calentamiento global y la expectativa de vida, plantean grandes retos para solucionar la producción de alimentos que debemos tener para dar a vasto. (UN,2015)
 
