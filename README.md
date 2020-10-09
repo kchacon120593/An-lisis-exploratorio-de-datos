@@ -9,3 +9,6 @@ Por esta razón, haciendo uso de uno de los dataset que provee la Organización 
 El dataset en estudio contiene datos de producción de alimentos desde el año 1961 hasta el 2013, distinguiendo en él la comida que se produce para los humanos como Food y la que se destina para los animales como Feed.
 
 El dataset completo está disponible en: https://www.kaggle.com/dorbicycle/world-foodfeed-production
+
+
+Si desea consultar información sobre algún otro país, favor utilizar la siguiente Shiny App:  https://kevinchacon93shinyapps.shinyapps.io/First_app/
